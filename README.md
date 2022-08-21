@@ -1,4 +1,4 @@
-# patient-clustering-and-prediction-of-flipped-patients
+# Patient Clustering and Prediction of Flipped Patients
 
 - Removed outliers using box plots.
 - Used K-Means clustering to categorize patients into three distinct groups 
